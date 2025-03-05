@@ -1,5 +1,7 @@
 # **Hanuman Chalisa Chatbot (RAG + Translation)**  
 
+**Streamlit App Link:** [chalisagpt.streamlit.app](https://chalisagpt.streamlit.app/)
+
 ## **About**  
 This chatbot answers questions about the **Hanuman Chalisa**, using **Retrieval-Augmented Generation (RAG)**. Unlike standard AI models, which rely on pre-trained knowledge, our chatbot **retrieves information only from the Hanuman Chalisa text**.  
 
