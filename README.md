@@ -1,4 +1,4 @@
-# **Hanuman Chalisa Chatbot (RAG + Translation) 🙏**  
+# **Hanuman Chalisa Chatbot (RAG + Translation)**  
 
 ## **About**  
 This chatbot answers questions about the **Hanuman Chalisa**, using **Retrieval-Augmented Generation (RAG)**. Unlike standard AI models, which rely on pre-trained knowledge, our chatbot **retrieves information only from the Hanuman Chalisa text**.  
@@ -20,7 +20,7 @@ This chatbot answers questions about the **Hanuman Chalisa**, using **Retrieval-
 
 ---
 
-## **The True Essence of RAG in a Pre-Trained World 🌍**  
+## **The True Essence of RAG in a Pre-Trained World**  
 Most AI models come pre-loaded with **vast but uncontrolled** knowledge. The true power of **RAG** is **controlling the knowledge source** by adding only the latest, relevant, or even personal data.  
 
 For example:  
