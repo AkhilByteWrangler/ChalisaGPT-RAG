@@ -1,0 +1,9 @@
+numpy
+torch
+transformers
+faiss-cpu 
+rank_bm25
+openai
+streamlit
+sentence-transformers
+regex
