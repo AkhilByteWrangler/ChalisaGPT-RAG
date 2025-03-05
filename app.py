@@ -211,14 +211,9 @@ if user_input:
 
     judge_feedback = judge_response.choices[0].message.content.strip()
 
-    # Extract numerical confidence score from GPT-4 response
-    match = re.search(r"\b(100|[1-9][0-9]?)%\b", judge_feedback)  
-    confidence_score = int(match.group(1)) if match else 50  
-
     # Display results
     st.subheader("Relevant Passage & Generated Answer")
 
-    st.markdown(f"### 🏆 Confidence Score: **{confidence_score}%**")
     st.markdown(f"**📖 Relevant Passage:**\n> {passage}")
     st.success(f"**💡 Generated Answer:** {answer}")
     st.info(f"**🧐 Judge's Feedback:** {judge_feedback}")
