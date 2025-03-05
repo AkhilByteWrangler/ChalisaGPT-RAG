@@ -32,4 +32,4 @@ With **RAG**, **you control the knowledge AI uses**, instead of relying on an un
 Try asking:  
 - *"What is the sacred herb?"*
 - *"Who is Shri Raghubir?"*
-- *"Who is the greatest admirer of Lord Hanuman?"
+- *"Who is the greatest admirer of Lord Hanuman?"*
